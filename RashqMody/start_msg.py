@@ -22,7 +22,7 @@ async def startm(app, msg):
         [
             [btn(text=f' رصيدك : {coin} $ ', callback_data='lol')],
             [btn(text=' طلب رشق اعضاء ', callback_data='member')],
-            [btn(text=' تجميع النقاط ', callback_data='sharelink'), btn(text=' شراء رصيد ', url='https://t.me/EK_N1')],
+            [btn(text=' تجميع النقاط ', callback_data='sharelink'), btn(text=' شراء رصيد ', url='https://t.me/K_F_P')],
             [btn(text='معلومات حسابك', callback_data='account'), btn(text=' تحويل رصيد ', callback_data='tran')],
             [btn(text='معلومات الطلب', callback_data='id_requests')],
         ]
